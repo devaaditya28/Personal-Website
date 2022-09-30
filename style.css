@@ -48,16 +48,16 @@ ul li a:hover {
     align-items: center;
     justify-content: space-around;
     padding: 10px 50px;
-    margin-top: 200px;
+    margin: 100px 0 100px 0;
 }
 
 .home-image img {
-    width: 600px;
-    border-radius: 200px;
+    width: 400px;
+    border-radius: 100px;
 }
 
 .home-text h1 {
-    font-size: 60px;
+    font-size: 40px;
 }
 
 .home-text span {
@@ -65,8 +65,8 @@ ul li a:hover {
 }
 
 .home-text button {
-    font-size: 30px;
-    padding: 20px 30px;
+    font-size: 20px;
+    padding: 15px 20px;
     background-color: rgb(14, 69, 121);
     color: #fff;
     border-radius: 25px;
